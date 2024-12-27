@@ -24,7 +24,11 @@
         <module>yudao-module-crm</module>
         <module>yudao-module-erp</module>
         <module>yudao-module-ai</module>
-<!--        <module>yudao-module-iot</module>-->
+        <module>yudao-module-shortlink</module>
+        <module>yudao-module-nav</module>
+        <module>yudao-module-bot</module>
+        <module>yudao-module-share</module>
+        <!--        <module>yudao-module-iot</module>-->
     </modules>
 
     <name>${project.artifactId}</name>
